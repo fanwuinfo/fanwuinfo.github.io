@@ -1,0 +1,27 @@
+# Theme metadata
+name = "fanwu2025"
+
+
+# Optional Google font URL
+#google_fonts = "https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;700&display=swap"
+
+[light]
+  # Primary
+  primary = "#2A2A2A"
+
+  # Menu
+  menu_primary = "#fff"
+  menu_text = "#000"
+  menu_text_active = "#2B2B2B"
+  menu_title = "#000"
+
+
+  # Links
+  link = "#2A2A2A"
+  link_hover = "#2B2B2B"
+  link_decoration = "underline"
+
+
+  # Home sections
+  home_section_odd = "#fff"
+  home_section_even = "#f7f7f7"

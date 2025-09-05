@@ -1,0 +1,177 @@
+// Override this file to add your own SCSS styling.
+
+$body-color: #2A2A2A;
+$sta-link: #2B2B2B;
+$sta-link-hover: #2B2B2B;
+$sta-link-decoration: underline;
+
+
+body {
+  color: $body-color;
+  font-family: 'Lato', sans-serif;
+  line-height: 1.8em;
+  margin-top: 0;
+}
+
+
+
+a {
+  color: $sta-link;
+  text-decoration: $sta-link-decoration;
+}
+
+a:hover, a:focus {
+  color: $sta-link-hover;
+}
+
+
+
+
+.header--fixed {
+  position: relative;
+}
+
+
+.page-body {
+  padding-bottom: 2rem;
+}
+
+
+.about-content, .paper-abstract {
+  text-align: justify;
+}
+
+.content-row {
+  padding: 0 1rem;
+  h2 {
+    font-size: 1.125rem;
+    color: $body-color;
+    font-weight: 700;
+  }
+
+  .pub-item {
+    margin-bottom: 1.5rem;
+    .pub-title {
+      font-style: italic;
+      a {
+        text-decoration: none;
+      }
+    }
+
+    .pub-info{
+      .pub-journal {
+        font-style: italic;
+        font-weight: bold;
+      }
+    }
+  }
+
+
+
+}
+
+.paper-row {
+  h2 {
+    margin-top: 4rem;
+  }
+  .paper-item {
+    margin-bottom: 3rem;
+    .paper-title {
+      font-size: 1.125rem;
+      font-style: italic;
+      a {
+        text-decoration: none;
+      }
+    }
+  }
+}
+
+
+
+.page-footer {
+  background: #2B2B2B;
+  padding: 5rem 0;
+  color: #ffffff;
+  font-size: 0.88rem;
+  .nav-footer-right{
+    text-align: center;
+    a {
+      color: #ffffff;
+      font-size: 0.88rem;
+    }
+  }
+}
+
+
+// 电脑
+@media (min-width: 780px) {
+
+
+  .navbar {
+
+    height: auto;
+    box-shadow: none;
+    padding: 0;
+
+  }
+
+  .block-bar-wrap {
+    display: block !important;
+    padding-left: 0;
+    padding-right: 0;
+    max-width: 100%;
+
+    .d-lg-inline-flex {
+      width: 100%;
+      justify-content: center;
+    }
+    .navbar-brand {
+      margin-right: 0;
+      font-family: "Actor";
+      font-size: 3.8rem;
+      font-weight: normal;
+      padding: 2.4rem 0 2rem 0;
+    }
+
+    .main-menu-item {
+      border-top: 1px solid rgba(116,116,116,0.15);
+      border-bottom: 1px solid rgba(116,116,116,0.15);
+    }
+    a.nav-link {
+      border-bottom: 3px solid #2B2B2B;
+      font-family: "Open Sans";
+      font-weight: 400 ;
+      letter-spacing: 3px;
+      font-size: 0.88rem;
+      color: #3b3b3b !important;
+
+      padding-bottom: 0.8rem;
+      padding-top: 0.7rem;
+      padding-right: 0 !important;
+      padding-left: 0 !important;
+    }
+  }
+}
+
+
+
+
+// 手机
+@media (max-width: 780px) {
+  .about-avatar {
+    order: 1;
+    padding: 0 0 2rem 0;
+    img {
+      margin: 0 auto;
+    }
+  }
+  .about-content {
+    order: 2;
+  }
+
+  .pub-row {
+    h2 {
+      margin-top: 4rem;
+    }
+  }
+}

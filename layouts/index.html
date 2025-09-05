@@ -1,0 +1,85 @@
+{{- define "main" -}}
+
+    {{- $about := .Params.about -}}
+    {{- $publications := .Params.publications -}}
+    {{- $working_papers := .Params.working_papers -}}
+
+
+  <div class="container pt-5">
+
+    <div class="row content-row">
+      <div class="col-12 col-md-7 about-content">
+          {{ $about.content | markdownify | emojify }}
+      </div>
+      <div class="col-12 col-md-5 about-avatar">
+
+        <img src="{{ $about.avatar | relURL }}"/>
+
+      </div>
+    </div>
+
+
+    <div class="pub-row content-row ">
+      <h2>Publications</h2>
+      {{ range $index, $item := $publications }}
+          <div class="pub-item">
+            <div class="pub-title">
+                <a href="{{$item.link}}">{{ $item.title | markdownify | emojify }}</a>
+            </div>
+            <div class="pub-info">
+                <span class="pub-authors">{{ $item.authors | markdownify | emojify }}</span>,
+                <span class="pub-journal">{{ $item.journal | markdownify | emojify }}</span>,
+                <span class="pub-year">{{ $item.year | markdownify | emojify }}</span>
+
+            </div>
+
+          </div>
+      {{ end }}
+    </div>
+
+
+
+
+    <div class="paper-row content-row ">
+      <h2>Working Papers</h2>
+      {{ range $index, $item := $working_papers }}
+          <div class="paper-item">
+            <div class="paper-title">
+                <a href="{{$item.title_link}}">{{ $item.title | markdownify | emojify }}</a>
+                <span class="paper-arxiv">{{with $item.arXiv}}(<a href="{{.}}">arXiv</a>){{ end }}</span>
+            </div>
+
+
+            {{with $item.note}}
+            <div class="paper-note">
+                {{ . | markdownify | emojify }}
+            </div>
+            {{end}}
+
+
+
+            <div class="paper-abstract">
+              Abstract: {{ $item.abstract | markdownify | emojify }}
+            </div>
+
+
+            <div class="paper-presentations">
+              Presentations: {{ $item.presentations | markdownify | emojify }}
+            </div>
+
+
+          </div>
+      {{ end }}
+    </div>
+
+
+
+
+
+  </div>
+
+
+
+
+
+{{- end -}}

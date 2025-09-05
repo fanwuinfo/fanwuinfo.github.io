@@ -1,0 +1,38 @@
+/*--  Actor  --*/
+@font-face {
+  font-family: 'Actor';
+  font-style: normal;
+  font-weight: 400;
+  url('../fonts/actor-regular.woff2') format('woff2'); /* Super Modern Browsers */
+}
+
+
+
+/*--  Open Sans  --*/
+
+
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  url('../fonts/open-sans-regular.woff2') format('woff2'); /* Super Modern Browsers */
+}
+
+
+
+/*--  Lato  --*/
+
+
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  url('../fonts/lato-regular.woff2') format('woff2'); /* Super Modern Browsers */
+}
+
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 700;
+  url('../fonts/lato-bold.woff2') format('woff2'); /* Super Modern Browsers */
+}
