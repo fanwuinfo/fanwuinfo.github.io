@@ -55,7 +55,7 @@ working_papers:
       We propose a new method for estimating selection models where the outcome equation is nonparametric and nonseparable in error terms. We show that, given the selection rule and the observed selected outcome distribution, the potential outcome distribution can be characterized as the fixed point of an operator, and we prove that this operator is a functional contraction. We propose a two-step semiparametric maximum likelihood estimator to jointly estimate the selection model and the potential outcome distribution. The consistency and asymptotic normality of the estimator are established. Our approach performs well in Monte Carlo simulations and is applicable in a variety of empirical settings where only a selected sample of outcomes is observed. Examples include consumer demand models with only transaction prices, auctions with incomplete bid data, and Roy models with data on accepted wages.
 
   - title: "Competing under Information Heterogeneity: Evidence from Auto Insurance, with Marco Cosconati, Yi Xin, and Yizhou Jin "
-    title_link: "/uploads/auto_insurance_20250709.pdf"
+    title_link: "/uploads/Auto_Insurance.pdf"
     arXiv: ""
     note: "Conditionally accepted at _**Review of Economic Studies**_"
     conferences: "SITE2024, EC2025, NBER Summer Institute IO 2025"
