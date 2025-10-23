@@ -47,7 +47,7 @@ working_papers:
       I study a principal-agent model in which a principal hires an agent to collect information about an unknown continuous state. The agent acquires a signal whose distribution is centered around the state, controlling the signal's precision at a cost. The principal observes neither the precision nor the signal, but rather, using transfers that can depend on the state, incentivizes the agent to choose high precision and report the signal truthfully. I identify a sufficient and necessary condition on the agent's information structure which ensures that there exists an optimal transfer with a simple cutoff structure: the agent receives a fixed prize when his prediction is close enough to the state and receives nothing otherwise. This condition is mild and applies to all signal distributions commonly used in the literature.
 
   - title: "Estimating Nonseparable Selection Models: A Functional Contraction Approach, with Yi Xin"
-    title_link: "/uploads/functional_contraction20250209.pdf"
+    title_link: "/uploads/Functional_Contraction202510.pdf"
     arXiv: "http://arxiv.org/abs/2411.01799"
     note: "Econometric Society Summer School in Econometrics and Statistics Best Paper Award"
     conferences: " 2025 Econometric Society World Congress "
@@ -57,7 +57,7 @@ working_papers:
   - title: "Competing under Information Heterogeneity: Evidence from Auto Insurance, with Marco Cosconati, Yi Xin, and Yizhou Jin "
     title_link: "/uploads/Auto_Insurance.pdf"
     arXiv: ""
-    note: "Conditionally accepted at _**Review of Economic Studies**_"
+    note: "Accepted at _**Review of Economic Studies**_"
     conferences: "SITE2024, EC2025, NBER Summer Institute IO 2025"
     abstract: |
       This paper studies competition under information heterogeneity in selection markets and examines the impact of public information regulations aimed at reducing information asymmetries between competing firms. We develop a novel model and introduce new empirical strategies to analyze imperfect competition in markets where firms have heterogeneous information about consumers, vary in cost structures, and offer differentiated products. Using data from the Italian auto insurance market, we find substantial differences in the precision of risk ratings across insurers, and those with less accurate risk-rating algorithms tend to have more efficient cost structures. We assess the equilibrium effects of giving firms equal access to aggregated risk information from a centralized bureau. This policy significantly reduces prices by increasing competition, leading to a 15.7% boost in consumer surplus, almost reaching the efficiency benchmark where firms have full knowledge of consumers' true risk. Aggregating information through the bureau favors low-risk consumers and reduces average costs by 12 euros per contract through more efficient insurer-insuree matching.
