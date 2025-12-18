@@ -57,7 +57,7 @@ working_papers:
   - title: "Competing under Information Heterogeneity: Evidence from Auto Insurance, with Marco Cosconati, Yi Xin, and Yizhou Jin "
     title_link: "/uploads/Auto_Insurance.pdf"
     arXiv: ""
-    note: "Accepted at _**Review of Economic Studies**_"
+    note: "Forthcoming at _**Review of Economic Studies**_"
     conferences: "SITE2024, EC2025, NBER Summer Institute IO 2025"
     abstract: |
       This paper studies competition under information heterogeneity in selection markets and examines the impact of public information regulations aimed at reducing information asymmetries between competing firms. We develop a novel model and introduce new empirical strategies to analyze imperfect competition in markets where firms have heterogeneous information about consumers, vary in cost structures, and offer differentiated products. Using data from the Italian auto insurance market, we find substantial differences in the precision of risk ratings across insurers, and those with less accurate risk-rating algorithms tend to have more efficient cost structures. We assess the equilibrium effects of giving firms equal access to aggregated risk information from a centralized bureau. This policy significantly reduces prices by increasing competition, leading to a 15.7% boost in consumer surplus, almost reaching the efficiency benchmark where firms have full knowledge of consumers' true risk. Aggregating information through the bureau favors low-risk consumers and reduces average costs by 12 euros per contract through more efficient insurer-insuree matching.
