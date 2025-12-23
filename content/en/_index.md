@@ -68,5 +68,5 @@ working_papers:
     note: ""
     conferences: ""
     abstract: |
-      
+      Traditional merger analysis emphasizes the trade-off between increased market concentration and efficiency gains from cost synergies. In the era of big data, however, information synergies have become an increasingly important motivation for mergers and acquisitions. This paper develops a framework to analyze information synergies as a distinct channel of merger effects in selection markets such as insurance and credit. We show that information synergies can reduce allocative efficiency and have distributional consequences for consumers. Using a structural model and merger simulation calibrated to the Italian auto insurance market, we find that a merger between two insurers generates large information advantages that enable them to cream-skim low-risk consumers, reducing their average expected claim payouts by 7.2–15.5%. Interestingly, this can benefit high-risk consumers, as some low-risk drivers crowded out to other insurers effectively subsidize riskier ones.
 ---
