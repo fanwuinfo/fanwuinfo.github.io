@@ -7,7 +7,7 @@ the_page_id: home_page
 about:
   avatar: "images/avatar.jpg"
   content: |
-    I am a micro theorist with interests in information acquisition, information design, and mechanism design. I also work on econometrics and empirical IO studies. I got my PhD from Caltech in 2025. My advisors are Omer Tamuz and Luciano Pomatto. My [CV](/uploads/cv.pdf) is here. My email is fanwu@phbs.pku.edu.cn
+    I am a micro theorist with interests in information acquisition, information design, and mechanism design. I also work on econometrics and empirical IO studies. I got my PhD from Caltech in 2025. My advisors are Omer Tamuz and Luciano Pomatto. My [CV](/uploads/CV.pdf) is here. My email is fanwu@phbs.pku.edu.cn
 
     I am an Assistant Professor at Peking University HSBC Business School.
  
