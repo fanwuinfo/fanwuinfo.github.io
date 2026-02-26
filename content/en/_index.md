@@ -23,7 +23,7 @@ publications:
   - title: "Linear Riley Equilibria in Quadratic Signaling Games"
     link: "/uploads/linear_riley_equilibria_in_quadratic_signaling_games.pdf"
     authors: |
-      with with Xi Weng, Xundong Yin
+      with Xi Weng, Xundong Yin
     journal: "Journal of Economic Theory"
     year: "2023"
 
