@@ -39,7 +39,7 @@ publications:
 
 working_papers:
   - title: "Incentivizing Information Acquisition"
-    title_link: "/uploads/incentivizing_information_acquisition20250210.pdf"
+    title_link: "/uploads/incentivizing_information_acquisition202604.pdf"
     arXiv: "http://arxiv.org/abs/2410.13978"
     note: ""
     conferences: "CETC 2025, 2024 Econometric Society North American Summer Meeting"
@@ -47,7 +47,7 @@ working_papers:
       I study a principal-agent model in which a principal hires an agent to collect information about an unknown continuous state. The agent acquires a signal whose distribution is centered around the state, controlling the signal's precision at a cost. The principal observes neither the precision nor the signal, but rather, using transfers that can depend on the state, incentivizes the agent to choose high precision and report the signal truthfully. I identify a sufficient and necessary condition on the agent's information structure which ensures that there exists an optimal transfer with a simple cutoff structure: the agent receives a fixed prize when his prediction is close enough to the state and receives nothing otherwise. This condition is mild and applies to all signal distributions commonly used in the literature.
 
   - title: "Estimating Nonseparable Selection Models: A Functional Contraction Approach, with Yi Xin"
-    title_link: "/uploads/Functional_Contraction20251218.pdf"
+    title_link: "/uploads/Functional_Contraction202604.pdf"
     arXiv: "http://arxiv.org/abs/2411.01799"
     note: "Econometric Society Summer School in Econometrics and Statistics Best Paper Award"
     conferences: " 2025 Econometric Society World Congress, 2025 DSE "
