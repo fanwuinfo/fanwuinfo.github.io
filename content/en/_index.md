@@ -39,7 +39,7 @@ publications:
 
 working_papers:
   - title: "Incentivizing Information Acquisition"
-    title_link: "/uploads/incentivizing_information_acquisition202604.pdf"
+    title_link: "/uploads/Incentivizing_Information_Acquisition202604.pdf"
     arXiv: "http://arxiv.org/abs/2410.13978"
     note: ""
     conferences: "CETC 2025, 2024 Econometric Society North American Summer Meeting"
