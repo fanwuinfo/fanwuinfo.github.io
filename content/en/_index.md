@@ -50,7 +50,7 @@ working_papers:
     title_link: "/uploads/Functional_Contraction202604.pdf"
     arXiv: "http://arxiv.org/abs/2411.01799"
     note: "Econometric Society Summer School in Econometrics and Statistics Best Paper Award"
-    conferences: " 2025 Econometric Society World Congress, 2025 DSE "
+    conferences: "2026 Barcelona Summer Forum (scheduled), 2025 Econometric Society World Congress, 2025 DSE "
     abstract: |
       We propose a new method for estimating selection models where the outcome equation is nonparametric and nonseparable in error terms. We show that, given the selection rule and the observed selected outcome distribution, the potential outcome distribution can be characterized as the fixed point of an operator, and we prove that this operator is a functional contraction. We propose a two-step semiparametric maximum likelihood estimator to jointly estimate the selection model and the potential outcome distribution. The consistency and asymptotic normality of the estimator are established. Our approach performs well in Monte Carlo simulations and is applicable in a variety of empirical settings where only a selected sample of outcomes is observed. Examples include consumer demand models with only transaction prices, auctions with incomplete bid data, and Roy models with data on accepted wages.
 
