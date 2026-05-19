@@ -41,7 +41,7 @@ working_papers:
   - title: "Incentivizing Information Acquisition"
     title_link: "/uploads/Incentivizing_Information_Acquisition202605.pdf"
     arXiv: "http://arxiv.org/abs/2410.13978"
-    note: ""
+    note: "Extended Abstract at EC'26: Proceedings of the 27th ACM Conference on Economics and Computation"
     conferences: "CETC 2025, 2024 Econometric Society North American Summer Meeting"
     abstract: |
       I study a principal-agent model in which a principal hires an agent to collect information about an unknown continuous state. The agent acquires a signal whose distribution is centered around the state, controlling the signal's precision at a cost. The principal observes neither the precision nor the signal, but rather, using transfers that can depend on the state, incentivizes the agent to choose high precision and report the signal truthfully. I identify a sufficient and necessary condition on the agent's information structure which ensures that there exists an optimal transfer with a simple cutoff structure: the agent receives a fixed prize when his prediction is close enough to the state and receives nothing otherwise. This condition is mild and applies to all signal distributions commonly used in the literature.
