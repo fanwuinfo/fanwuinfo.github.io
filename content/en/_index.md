@@ -19,6 +19,7 @@ publications:
       with Marco Cosconati, Yi Xin, and Yizhou Jin
     journal: "Review of Economic Studies"
     year: "2026"
+    conferences: "SITE2024, EC2025, NBER Summer Institute IO 2025"
   
   - title: "Implementing Randomized Allocation Rules with Outcome-Contingent Transfer"
     link: "/uploads/implementing_randomized_allocation_rules_with_outcome_contingent_transfer.pdf"
