@@ -61,7 +61,7 @@ working_papers:
     abstract: |
       We propose a new method for estimating selection models where the outcome equation is nonparametric and nonseparable in error terms. We show that, given the selection rule and the observed selected outcome distribution, the potential outcome distribution can be characterized as the fixed point of an operator, and we prove that this operator is a functional contraction. We propose a two-step semiparametric maximum likelihood estimator to jointly estimate the selection model and the potential outcome distribution. The consistency and asymptotic normality of the estimator are established. Our approach performs well in Monte Carlo simulations and is applicable in a variety of empirical settings where only a selected sample of outcomes is observed. Examples include consumer demand models with only transaction prices, auctions with incomplete bid data, and Roy models with data on accepted wages.
 
-- title: "Building a Sovereign Benchmark: The Limits of Private Coordination, with Fend Dong"
+  - title: "Building a Sovereign Benchmark: The Limits of Private Coordination, with Fend Dong"
     title_link: "/uploads/debt.pdf"
     arXiv: "http://arxiv.org/abs/2610.19516"
     note: ""
@@ -70,7 +70,7 @@ working_papers:
       Public debt supplies liquidity and collateral services only if institutions coordinate on using the same claim. We study this coordination when use carries a recurring cost and a benefit that rises with other users. Above a quality threshold, two positive-adoption equilibria exist, and under best responses the initial user base decides between collapse and high adoption. Under logit choice, as the population grows and noise vanishes, the long-run distribution selects high adoption only above a strictly higher threshold. Debt issuance improves market depth but eventually dilutes backing per claim. This trade-off creates a range of debt levels supporting the liquidity premium of public debt in macroeconomic models and a narrower range supporting its long-run selection. At the boundary of the wider range, the premium is discontinuous. A matching transfer that corrects the adoption externality makes stationary selection maximize network surplus. Transfers can also help launch a network without permanent support.
 
 
-- title: "Who Keeps a Bubble Alive? Skin in the Game and the Survival of Rational Bubbles, with Fend Dong and Siqing Wang"
+  - title: "Who Keeps a Bubble Alive? Skin in the Game and the Survival of Rational Bubbles, with Fend Dong and Siqing Wang"
     title_link: "/uploads/who keeps a bubble alive.pdf"
     arXiv: "http://arxiv.org/abs/2610.19496"
     note: ""
