@@ -81,13 +81,6 @@ working_papers:
 
     
 
-  - title: "Can Better Information Reduce Efficiency? Information Synergies in Financial Mergers, with Marco Cosconati and Yi Xin"
-    title_link: "/uploads/merger_in_selection_markets.pdf"
-    arXiv: ""
-    note: ""
-    conferences: "2026 Asia Meeting of the Econometric Society"
-    abstract: |
-      Mergers among financial institutions can generate information synergies beyond conventional cost synergies. We develop a framework to study how such information synergies affect competition and market outcomes, and show that improved screening by merging firms can distort the allocation of consumers across firms, thereby reducing allocative efficiency. We quantify these effects through merger simulations for  the Italian auto insurance market. We find that mergers generate substantial informational advantages, allowing merged firms to cream-skim low-risk consumers and reduce their average expected claim payouts by 7.2–15.5%. At the market level, however, these private gains can come at an efficiency cost: for some mergers, the resulting reallocation of consumers increases the average cost of serving the market by up to 1.4%, or approximately 12 euros per contract.
 
  
 ---
